@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+    <title>Happy Birthday!</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+  </head>
+<style>
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 13px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #e6e6e6; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+.parent{
+    background-image: url("https://live.staticflickr.com/65535/52681627982_0c9c71d2e9_b.jpg");
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   object-fit: cover;
+
+}
+
+.parent2{
+    background-image: url("https://live.staticflickr.com/65535/52681627982_0c9c71d2e9_b.jpg");
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   filter: brightness(0.5);
+   object-fit: cover;
+}
+
+.FONT{
+  font-family: 'Architects Daughter', cursive;
+}
+
+ul {
+  text-align:center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  z-index: 99;
+}
+
+li {
+  display: inline-block;
+  text-align:center;
+   z-index: 99;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+   z-index: 99;
+}
+
+li a:hover {
+  background-color: #111;
+   z-index: 99;
+}
+</style>
+
+
+<ul class="parent2">
+  <li><a href="#section2">Viata reala cu prostii</a></li>
+  <li><a href="#section3">Momente cu 8B</a></li>
+</ul>
+
+</style>
+  <center> 
+
+<div class="parent">
+  <div class="FONT">
+<div id="section2" class="container-fluid">
+  <h1 style="font-size:55px; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:45%;float:center;background-color:#ffffff;margin-left:0;padding:10px;text-align:center;">Viata reala cu prostii</h1>
+<img src="https://live.staticflickr.com/65535/51653741465_cfb0497f83_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 80px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51653104813_7a84881ab2_c.jpg" ; width= 37%; height=37% style="border: 5px solid #ffffff; margin: 80px 30px 30px 30px">
+  <p> </p>
+
+  <img src="https://live.staticflickr.com/65535/51653542689_bda31b0715_b.jpg" ; width= 35%; height=35% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51653735190_1af384ac9a_c.jpg" ; width= 35%; height=35% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <p> </p>
+
+  <img src="https://live.staticflickr.com/65535/51652878246_af0ec0bde7_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51652059427_018e4118e2_c.jpg" ; width= 27%; height=27% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51653104918_a9b07e4e44_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <p> </p>
+ <iframe style="margin: 30px 30px 30px 30px" width="400" height="450"
+src="https://www.youtube.com/embed/dRhwGjcxnpU">
+</iframe>
+ <iframe style="margin: 30px 30px 30px 30px" width="400" height="450"
+src="https://www.youtube.com/embed/8QEloxvHjwI">
+</iframe>
+
+  <p> </p>
+
+  <img src="https://live.staticflickr.com/65535/51653741430_275ab91e71_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51653548224_238abeb2d8_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51653542694_468f304ff3_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <p> </p>
+
+  <img src="https://live.staticflickr.com/65535/51654386534_b6f9a46b90_z.jpg" ; width= 25%; height=25% style="border:5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51652878401_3bbb664d9e_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51652059477_6cefa99846_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <p> </p>
+
+  <img src="https://live.staticflickr.com/65535/51653548199_f9249f03e2_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51653548314_c88df422cd_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51652878466_94a28d9e51_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <p> </p>
+
+ <iframe style="margin: 30px 30px 30px 30px" width="400" height="470"
+src="https://www.youtube.com/embed/lGh4RBTqn_g">
+</iframe>
+
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51653741355_d84328dd8e_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51653547564_8e0acfbb31_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51652058627_298a955446_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51654399494_7276db9dc8_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51653735390_4fd9f450ab_h.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51652059322_fb4f7a2f0b_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51653741310_fb498b7218_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51652878261_eab86e0282_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51653735405_d01bbd5842_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51653099213_9a66016ba0_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51652872691_139849333a_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51653099228_a6677c15cb_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51653542664_7bcc5460d4_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51652872366_95d8d6c9b8_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51653542724_5d76fed5f4_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51653105088_150ab28202_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51652872136_37cf9562a6_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51653105128_46c62a96d5_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51652872341_796aaaa78b_c.jpg" ; width= 27%; height=27% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51653542434_48c2316b8e_z.jpg" ; width= 22%; height=22% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51653735395_85ecae3bc5_c.jpg" ; width= 27%; height=27% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/QLsihx0vSJY">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/k_C5UKCzok4">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/bVNFcVGohAI">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/BCEyLrAgXmc">
+</iframe>
+
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51653542369_5dea81b6e8_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51653098993_28141d4301_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51652059307_ca764f12b2_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51653735175_10006ff1b2_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51652053412_b311c62a54_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51652872581_30c209090e_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51652053462_e680873b1a_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51678045885_269ab7a543_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51678045880_c5f5ba69ef_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51676358207_c8eb2976c0_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51677836204_53774033a9_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51677836219_f53176b11a_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/nj4-VZiAw9M">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/t9TcQv1Nqpg">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/XzATPRLc9Lc">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/SPuK6LH3RwU">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51676358397_b8b20512bc_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51678045950_a6d102bec5_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51677411948_593cf827b7_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/SyH-pdrAOTk">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/RGVj2y7hYsI">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51711040931_ab097f1d05_o.jpg" ; width= 28%; height=28%  style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51711041031_762d621d51_o.jpg" ; width= 22%; height=22% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51711318078_36702fec93_o.jpg" ; width= 28%; height=28%  style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px; transform:rotate(180deg)">
+<p> </p>
+
+ <img src="https://live.staticflickr.com/65535/51711041216_f3f4011ec9_o.jpg" ; width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51711041421_028c584c4b_o.jpg" ; width= 32%; height=32% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51711715649_aefbcd95b0_o.jpg" ; width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51711318618_fa36df9787_o.jpg" ; width= 35%; height=35%  style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px; transform:rotate(90deg)">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51768772916_ca47531cbc_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51769418054_08e4c06d95_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/pM_wmNniPFk">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/PimAOjEV4NE">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/Gse-8N7nAWM">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/TYSpnOx-FCk">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/TEcr2hu_6B4">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51767951157_90f5a12b6a_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51769418199_bc1e417238_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52148440769_4eafa14141_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52148205831_898c3f64ff_o.jpg" ; width= 35%; height=35% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52148695820_082a679798_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52148205711_c367b817f4_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52148220798_eb66095921_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52147186277_52ef553a55_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51768773216_c5bdf8a110_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51769654010_1e3da6f72e_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/Jfv_rkQg8To">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/Cqw-aHDPgfY?feature=share">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/ETHG7jivXMc?feature=share">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/RI3piU4GA0g">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51782273023_905c4c918c_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51821963581_66237002b8_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51822684310_8cb97a3354_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51879818653_c553f32250_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51880058549_7fed58da9b_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51880389890_90e87b22cd_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51880058129_d31f5fdb2b_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/51880389675_28980a6c13_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/Yfb5-jlOPQc">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/mlozvkAYlJI?feature=share">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/8piooh0iNvc?feature=share">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52148695090_17402c4db2_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52148695040_65c7c77065_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52148220158_8436c233b1_o.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52148438104_04b5c95640_o.jpg" ; width= 45%; height=45% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52148436874_ddcca2dd60_o.jpg" ; width= 45%; height=45% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52148202041_c92458b5bb_o.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52147183047_1764b3ec60_o.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52148202081_4cfd2e25ac_o.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/B18jus2XPdI">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52540636179_d587050739_b.jpg" ; width= 70%; height=70% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52540887703_7cbc99892e_b.jpg" ; width= 70%; height=70% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+SDFGHJKLKYTRE
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/nHK9zICpBUw?feature=share">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/1ioKMPv9AtI?feature=share">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/Qz0Qv1V5m7U">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/fNbfityd_GI">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/ko5AtklOXyI">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/CIks-oZmfCM?feature=share">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/K0dThlW0Wx4?feature=share">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52540634209_cff9099ea7_k.jpg" ; width= 50%; height=50% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52539872687_55b7bf742a_b.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52539872787_c9a83e20c8_b.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52540333836_759602f733_b.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52951117285_f0211b52da_z.jpg" ; width= 58%; height=58% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52951117280_64abc66b53_z.jpg" ; width= 58%; height=58% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52561951718_ce1d6413f0_b.jpg"; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52539871062_88f1387cb8_b.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<img src="https://live.staticflickr.com/65535/52560958392_faa3233bc1_b.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52561879730_604333586b_b.jpg" ; width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52560958522_cfbcbf7029_b.jpg" ; width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/jcGlSB-WyUA">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52560958487_c0435bd86f_b.jpg" ; width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/XRY0Ap7mubY">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/7Cj8ZgTunmQ">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/qC86sxvQ9Z0">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/oIaq6Pni4YU">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/UehHFL9FTAE">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/5X95hwKdIU4">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/y_pxnk4YgGU">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52583093331_313ba3f37e_b.jpg" ; width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52582629162_ba30f18633_b.jpg" ; width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52583530330_e6dbdd6bbf_b.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/ofozLC1KH6w">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/JxROpVMGRzo">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/888FHwEbrsc?feature=share">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/n_rHulMHIf8?feature=share">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/p7l0UlH0BM8?feature=share">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/EM5NaUEL49k?feature=share">
+</iframe>
+<p> </p>
+
+<iframe width="800" height="550" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/pnRIGkSYUX8">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52802084825_6394131da9_k.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52801687396_e7d3739efb_k.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52801687651_12a7609b72_k.jpg" ; width= 55%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52802131213_986b86883e_k.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52801935499_11c05101d0_k.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52802084520_8933adbd4a_k.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52801935259_c51e8c44f6_k.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52801687471_a045d990d7_k.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52802084115_b6265a75f2_h.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52802084145_bacc8866a7_h.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52801934924_0e912b2002_h.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52802130793_37db954af9_h.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52801934774_3428bd66d6_h.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52802130563_297ccfde96_h.jpg" ; width= 30%; height=30% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52801934649_c85b8a26f2_h.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52801934674_d8664ecb90_h.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52802084030_347e616e45_h.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52802084080_fe56e742fb_h.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52802083570_8cbd02393f_h.jpg" ; width= 22%; height=22% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52802083605_e8f21b9eac_c.jpg" width= 32%; height=32% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52801122787_9885f5c608_c.jpg" ; width= 27%; height=27% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/xKQNZljRIzs?feature=share">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52951116005_5472c5b108_z.jpg" ; width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52950736236_150be912fc_z.jpg" width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52950878379_2282e9cdd0_z.jpg" width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52990995084_e2c12bff55_z.jpg" width= 55%; height=55% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+<img src="https://live.staticflickr.com/65535/52991223545_6f4400ec10_z.jpg" width= 55%; height=55% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+<img src="https://live.staticflickr.com/65535/52990995019_48f1ba7605_z.jpg" width= 55%; height=55% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/6H2SWM9tNrI">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/LEcFEbo2ZmQ">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/Z5Ek1HRDGF8?feature=share">
+</iframe>
+<p> </p>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/4kjJB45cE9Y">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52950136182_be2a27e087_z.jpg" width= 35%; height=35% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="500" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/-Xlhz9BfvdQ">
+</iframe>
+<iframe width="500" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/lelMWLLDR-g">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52951117130_10bf50b0da_z.jpg" width= 65%; height=55% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52951188663_632314f651_z.jpg" width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="500" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/qUv0EHVFI30">
+</iframe>
+<iframe width="500" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/tkXZQX1QPQY">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52950736146_518d363094_z.jpg" width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52951187278_14c55a5cb4_z.jpg" width= 30%; height=30% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52950736141_3c1317bc36_z.jpg" width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="500" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/hhyH-LL4dVY">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52950878094_aca2cfd08b_z.jpg" width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52950879429_16b1610624_z.jpg" width= 65%; height=65% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52950136992_4842099b18_z.jpg" width= 65%; height=65% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52951188473_6626fbb87a_z.jpg" width= 65%; height=65% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="500" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/vZSVJlfQSGo?feature=share">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52951116480_614b479150_z.jpg" width= 45%; height=45% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<iframe width="700" height="570" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/tu4SHkcYl3E">
+</iframe>
+<p> </p>
+
+<iframe width="500" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/Vl-B_U7CCW0?feature=share">
+</iframe>
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/52950136292_720edfb771_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52950736771_36903797b5_z.jpg" width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/52950878549_04441d96ae_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53023938882_ca5611e4c8_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<!-- DISTRICT: -->
+
+<img src="https://live.staticflickr.com/65535/53113386258_3a3aa762b5_z.jpg" width= 53%; height=53% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113299265_064a10ee35_z.jpg" width= 53%; height=53% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53112885266_736086ce76_z.jpg" width= 53%; height=53% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+
+<img src="https://live.staticflickr.com/65535/53112885041_f8c96e0ca5_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113298970_30565b395a_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113091119_cf70293ca0_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53112885031_ec8b69d91e_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53112885151_7188e45e2f_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113385868_04ef867f6b_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53112885026_92d2457470_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53112885001_a31f13e289_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113091064_58c9e28152_z.jpg" width= 33%; height=33% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+
+<!-- AMAZONIA: -->
+
+<img src="https://live.staticflickr.com/65535/53112884886_f5759810f0_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113385723_ef3ca58d2e_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113090839_b3d532c824_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113090944_d17c41959e_z.jpg" width= 53%; height=53% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113090824_f27c9a3e8a_z.jpg" width= 53%; height=53% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113090819_852a92f24f_z.jpg" width= 53%; height=53% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113090669_3b8afbf33c_z.jpg" width= 53%; height=53% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113298635_8b2805a498_z.jpg" width= 37%; height=37% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113090734_fffffc7d1c_z.jpg" width= 37%; height=37% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113385608_a891e8639e_z.jpg" width= 37%; height=37% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113090714_1b4c6fa69a_z.jpg" width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113298610_24a9ba26d9_z.jpg" width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113385603_c07e76e806_z.jpg" width= 30%; height=30% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53112300942_90578ab1d1_z.jpg" width= 30%; height=30% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113090624_8824a1661c_z.jpg" width= 30%; height=30% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53112884606_c6186e2893_z.jpg" width= 30%; height=30% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53112301187_752da0b343_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53112301157_3110646071_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53112301162_f67c68aa07_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113385783_543fcdb0fc_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113298785_61e6a04fd7_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53112884911_cda0e47db3_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113090929_48410cb768_z.jpg" width= 30%; height=30% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113090934_263e33cbf0_z.jpg" width= 30%; height=30% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53112301077_473eedb370_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53112301102_b28dfcfb7e_z.jpg" width= 40%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+
+<img src="https://live.staticflickr.com/65535/53113385668_0987c50aea_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113090779_d0e1a44e36_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113298695_5be7459aa1_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113090559_e400058874_z.jpg" width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+
+<img src="https://live.staticflickr.com/65535/53112884661_49953527f2_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53112884636_cbd013e889_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53112300897_33964c611e_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53113298525_931abe5338_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113090504_7fd8594982_z.jpg" width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53112301512_1e7294c6a5_z.jpg" width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<!--ZIUA ALEXIEI -->
+
+<!--CEVA -->
+
+<img src="https://live.staticflickr.com/65535/53112301607_e38420daef_z.jpg" width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53112301442_7990419586_z.jpg" width= 60%; height=60% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/53112885206_91235bca4b_z.jpg" width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/53113386048_bd40cf084c_z.jpg" width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<!--ZIUA BEEI -->
+
+<img src="https://live.staticflickr.com/65535/53113299225_ab0d018ba5_z.jpg" width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+</div>
+</div>
+
+<div class="parent">
+  <div class="FONT">
+<div id="section3" class="container-fluid">
+  <h1 style="font-size:55px; border-radius:15px;-webkit-border-radius:15px;-moz-border-radius:15px;width:45%;float:center;background-color:#ffffff;margin-left:0;padding:10px;text-align:center;">Momente cu 8B</h1>
+
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://www.youtube.com/embed/y44sp6QEtlg">
+</iframe>
+<iframe width="400" height="470" style="margin: 30px 30px 30px 30px"
+src="https://youtube.com/embed/wyaH1KI2Rbg?feature=share">
+</iframe>
+<p> </p>
+
+  <img src="https://live.staticflickr.com/65535/51653542529_ea60f9935e_h.jpg" ; width= 63%; height=69% style="border: 5px solid #ffffff; margin: 80px 30px 30px 30px">
+   <p> </p>
+
+   <img src="https://live.staticflickr.com/65535/51653098518_a3ed515829_z.jpg" ; width= 18%; height=18% style="border: 5px solid #ffffff; margin: 50px 30px 30px 30px"> 
+   <img src="https://live.staticflickr.com/65535/51652058697_478f44aa54_h.jpg" ; width= 33%; height=33% style="border: 5px solid #ffffff; margin: 50px 30px 30px 30px"> 
+   <img src="https://live.staticflickr.com/65535/51652878496_1f3807008d_z.jpg" ; width= 18%; height=18% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+   <p> </p>
+  <iframe width="620" height="400" style="margin: 30px 30px 30px" 
+src="https://www.youtube.com/embed/W1o9p6bV1zo">
+</iframe>
+   
+   <p> </p>
+  
+   <img src="https://live.staticflickr.com/65535/51653741515_500c27cf98_z.jpg" ; width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px"> 
+   <img src="https://live.staticflickr.com/65535/51653735290_6ee5f3fcbf_z.jpg" ; width= 18%; height=18% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px"> 
+
+   <p> </p>
+   <img src="https://live.staticflickr.com/65535/51653098903_cb229097b5_b.jpg" ; width= 30%; height=30% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px"> 
+   <img src="https://live.staticflickr.com/65535/51653741565_d5b84a8433_z.jpg" ; width= 33%; height=40% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px"> 
+   <p> </p>
+
+   <img src="https://live.staticflickr.com/65535/51653542474_42f88a6820_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+   <img src="https://live.staticflickr.com/65535/51653548344_3a8e054b86_c.jpg"; width=27%; height=27% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px"> 
+   <img src="https://live.staticflickr.com/65535/51653542319_770ed09382_b.jpg" ; width= 28%; height=28% style="border: 5px solid #ffffff; margin: 30px 0px 30px 30px">
+   <p> </p>
+
+  
+  <img src="https://live.staticflickr.com/65535/51653735345_4ed5b7dcb8_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51652872311_29786bdc4e_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51652878566_31c391a6e5_z.jpg" ; width= 22%; height=22% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <p> </p>
+
+  <img src="https://live.staticflickr.com/65535/51653098738_4fab7bf67f_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51652872236_033ba64d4d_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <img src="https://live.staticflickr.com/65535/51652059717_176cde227d_z.jpg" ; width= 25%; height=25% style="border: 5px solid #ffffff; margin: 30px 30px 30px 30px">
+  <p> </p>
+
+ <iframe width="620" height="400" style=" margin: 30px 30px 30px 30px" 
+src="https://www.youtube.com/embed/9D1IYfkhLIs">
+</iframe>
+  <p> </p>
+
+
+ <iframe width="420" height="450" style=" margin: 30px 30px 30px 30px" 
+src="https://www.youtube.com/embed/XDSqAKSewao">
+</iframe>
+ <iframe width="420" height="450" style=" margin: 30px 30px 30px 30px" 
+src="https://www.youtube.com/embed/SOsUQ89KlIc">
+</iframe>
+  <p> </p>  
+
+ <iframe width="650" height="415" style=" margin: 30px 30px 30px 30px" 
+src="https://www.youtube.com/embed/A-WHmWQSnTk">
+</iframe>
+ <p> </p>
+ 
+ <iframe width="400" height="420" style=" margin: 30px 30px 30px 30px" 
+src="https://www.youtube.com/embed/7gT19Rq9npk">
+</iframe>
+ <iframe width="400" height="420" style=" margin: 30px 30px 30px 30px" 
+src="https://www.youtube.com/embed/kL9K8l91dV8">
+</iframe>
+ <iframe width="400" height="420" style=" margin: 30px 30px 30px 30px" 
+src="https://www.youtube.com/embed/WunJWk5bK9w">
+</iframe>
+ <p> </p>
+  
+ <iframe width="400" height="420" style=" margin: 30px 30px 30px 30px" 
+src="https://www.youtube.com/embed/u1DXoO3AR0c">
+</iframe>
+
+ <p> </p>   
+
+<img src="https://live.staticflickr.com/65535/51653741550_4be08e3885_z.jpg" ; width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px"> 
+<img src="https://live.staticflickr.com/65535/51653740615_d8c5a2a302_z.jpg" ; width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<img src="https://live.staticflickr.com/65535/51653548544_3bb7183e4c_z.jpg" ; width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px">
+<p> </p>
+
+<img src="https://live.staticflickr.com/65535/51880389320_bb0d807e96_b.jpg" ; width= 23%; height=23% style="border: 5px solid #ffffff; margin: 30px 30px 80px 30px"> 
+</div>
+</div>
